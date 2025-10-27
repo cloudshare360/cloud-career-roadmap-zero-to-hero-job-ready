@@ -1,0 +1,431 @@
+﻿SUMMARY
+
+    • 18+ Years of IT Experience with 9+ Years as Lead Programmer
+    • 10+ Years as AWS Solution Architect, Cloud Solution Engineer
+    • AWS Certified Solution Architect 
+    • 12+ Years at Cognizant Technology Solutions, India, USA 
+        ◦ 2006-2012- Sr. Associate, 2011-2019- Solution, Application Architect 
+    • Clients 
+        ◦ Pearson Technologies, College Board - Education
+        ◦ Verizon, T-Mobile – Communication
+            ▪ Worked with BSS-Business Support System/OSS -Operation Support System for Order Line Provision Management
+        ◦ Ebay-Paypal, MoneyGram - Payments
+        ◦ Kaiser, United HealthCare, Cigna, Wellpoint- HealthCare
+        ◦ Taco Bell – Food
+        ◦ Sirus XM – Connected Vechicles
+        ◦ Delta Airlines – Airlines 
+        ◦ Payment Management - Moneygram
+    • Java 
+        ◦ Java, Java 8 – Functional Programming, Lambda, Stream-Parallel, Method References, New Data Time API
+        ◦ Junit for Unit Testing
+        ◦ Code Coverage with Sonar
+    • JavaScript, NodeJS, TypeScript
+        ◦ async programming models (events, callbacks, promises, async/await).
+        ◦ Unit Testing with Chai, Mocha, Sinon
+        ◦ Code Coverage with Nyc
+        ◦ Experience with Package Managers Viz. npm, yarm
+    • Front-End Technologies
+        ◦ Hands on Integration Experiences with ReactJS, AngularJS, VueJS with Rest API
+        ◦ Working with Front-end team for Integration
+        ◦ Developed ReactJS Components
+        ◦ Good Handson Knowledge ReactJS, React Hooks, Function Components vs Class Components, User State
+        ◦ Enhancing Skills from Back-End Developer to Full Stack Developer.
+    • Python
+        ◦ Python for AWS Lambda development using Boto3, AWS Glue Services, AWS Data Pipelines
+
+    • Spring, Spring Boot
+        ◦ Spring Core, Spring JDBC, Spring MVC, Spring Boot Rest API Development
+    • ORM
+        ◦ Hibernate, Ibatis Framework for ORM Mapping
+    • Design Patterns
+        ◦ Singleton, Service Locator, Creational Patters
+    • Micro services
+        ◦ Developing Rest API, Soap API using Spring, Spring Boot Micro Services
+        ◦ Developing Rest API using NodeJS Express JS, Fastify
+        ◦ Netflix OSS Components, Zuul, Eureka, Ribbon, Config Server
+    • NoSQL Databases
+        ◦ Developing Java Rest API using Cassandra
+        ◦ Developing NodeJS Rest API using MongoDB, DynamoDB, Document Databases
+    • Functional Programming
+        ◦ Functional programming using ES6 viz,
+        ◦ Arrow Functions, Const, Let, Template Literals, De Assignments, Spread Operator, Map, Filter, Reduce, Default Parameters, Higher Order Functions, De-structuring
+    • DevOps
+        ◦ Pipeline Integration with Jenkins, GitLab
+    • Security
+        ◦ O-auth, Spring Security
+        ◦ LDAP Integration using Java API
+        ◦ Okta Application integration for Rest API
+        ◦ Header Token Authentication and Authorization
+    • ETL
+        ◦ Data Transformation using ETL – AWS Service – Glue, 
+    • Reports
+        ◦ Athena Custom Reports
+    • Container
+        ◦ Docker, Kubernetes, EKS
+    • Cloud
+        ◦ 10+ Years on Multiple Cloud Technologies
+        ◦ AWS
+            ▪ API 
+                • API Gateway, 
+            ▪ Messaging
+                • SNS, SQS, Event Bridge
+            ▪ Compute 
+                • Lambda, EC2
+            ▪ Workflow
+                • Step function
+            ▪ Reporting
+                • Athena
+            ▪ Monitoring
+                • CloudWatch, Cloud Trail
+        ◦ Azure
+            ▪ Container
+            ▪ MS-SQL Services
+        ◦ Caching
+            ▪ In-Memory using Redis 
+Data Analytics Tools: 
+	
+	Amazon Kinesis: Log Streaming to Splunk Data Analysis – Sirus XM, College Board, Cigna
+	AWS Glue: ETL Jobs; AWS data analytics, T-Mobile
+	AWS Athena: Query on S3 Objects and fetching the required objects to Down Steam Systems - College Board
+	Quick Sight : Business Intelligence Reports- Sirus XM
+Generative AI: Applying Generative AI for speeding up development environment, Optimize the code.
+Used Tools Codium, Co-Piolet, Chat GPT
+
+    • Domain
+        ◦ HealthCare Domain
+            ▪ UHC, WellPoint, Kaiser
+        ◦ Telecom
+            ▪ Verizon, T-Mobile
+        ◦ Food
+            ▪ Teco Bell
+        ◦ Connected Vehicle Division
+            ▪ Sirus XM wireless Activation, Deactivation
+        ◦ Payment Domain
+            ▪ MoneyGram
+                • Integration with Ingenico for South Easter Countries
+                • First Data Provider Integration for USA Region	
+                • Fraud Detection
+            ▪ Paypal/Ebay
+                • Integration with Payment API for Visa, Master
+
+
+Roles & Responsibilities
+    • Technical Lead
+        ◦ Peer Reviews, Technical Guidance for Junior Developers
+        ◦ Working with product owners for Back Log
+    • Sr Developer
+        ◦ Coding, Unit Testcases, Code Coverage
+        ◦ Deploying Resources using GitLab Pipeline
+        ◦ Configuring Docker, EKS- Entitlements
+        ◦ Continuous deployment with terraform, git-ops pipeline on gitlabs, Aurgo CD for visual monitoring
+        ◦ QA Hand-Over
+
+Education
+    • Master of Technology (MTech/MS) IETE New Delhi, India. 
+Certifications:
+    • AWS Cloud Practitioner 
+    • AWS Certified Solution Architect 
+Employer:
+    • AA Software Networking INC – AASoftnet.com
+
+
+
+PROFESSIONAL EXPERIENCE
+
+
+Client: Delta Airlines - Xebia | Sr. Cloud Architect, Sr. Cloud Engineer – Development | | June 2024 to Till Date| Worked Remotely: Dallas, TX
+FFC Flight Family Communicator- Azure to AWS Migration
+
+Delta Air Lines (“Delta”) has requested AWS Professional Services (ProServe) to review and assess the Delta Flight Family Communication (FFC) application for migration to AWS services. Delta seeks to reduce multi-cloud complexity by focusing on a single cloud platform —AWS cloud— to run more than 700 apps, including FFC. While some applications may remain in Azure or on-premise, the objectives of Delta’s single cloud strategy are to reduce total cost of ownership in the cloud and to improve security and resiliency/availability. Delta also seeks to enhance FFC to meet availability and recovery objectives for mission-critical applications. 
+
+FFC is a cross-divisional project that seeks to improve operational communication. FFC provides employees with better visibility into operational information for the status of a flight via messaging. FFC helps Delta employees streamline the departure process, spend more time engaging with customers in a meaningful, individualized way, and improve on-time performance. Currently, Delta hosts FFC in a hybrid environment across on-premise data centers and Azure Cloud. The backend application depends heavily on Azure and Microsoft SDKs. 
+
+
+
+FFC Azure to AWS is a 3-tire application, where front-end is developed in Angular, backed is developed using NodeJS, Express JS, Clients are using Java.
+In Azure it is deployed using Azur APP which is equivalent of Elastic Bean Stack. As part of the Migration, the existing functionality, express API are converted as Lambda. The Enterprise Service Bus is replaced with Kafka
+
+Roles: Architecture
+As part of Migration, Converting the application to Lambda Architecture
+Build a new Architecture which includes AWS Services viz. API Gateway, S3, Lambda, Postgres DB
+MongoDB, Kafka for Messaging
+
+Role: Engineer/Developer Role
+Converting Express to AWS Lambda Microservices
+
+Microservice: 
+Ffc-web-api: 
+Admin-Regions, Configuration, flight, getLCCDesk, admin-airports, admin-gates, admin-zones, broadcast, message, user, appsync-resolvers, authorization
+
+    • Skills
+        ◦ Programming
+            ▪  Java 11, Spring Boot, NodeJS, JavaScript/TypeScript ES6, Express.js, Fastify, Python, Fast API
+        ◦ ORM
+            ▪ Sequelize with NodeJS, Hibernate
+        ◦ AWS  
+            ▪ Lambda, Step function, AWS Arora , Document DB/Mongo DB, SNS, SQS, Serverless SAM, S3, CloudWatch, API Gateway
+        ◦ Database
+            ▪ MongoDB, PostgreSQL – AWS Arora
+        ◦ Container
+            ▪ Docker, Docker Compose, EKS, Kubernetes, Gitlab CICD
+        ◦ IAC: 	
+            ▪ AWS Serverless- SAM, AWS CDK
+        ◦ Middleware
+            ▪  Kinesis, Kafka
+        ◦ Oauth
+            ▪ Okta
+        ◦ Data Analytics
+            ▪ Kenisis, RedShit, Athena, Glue
+
+
+
+Client: Cigna Health Care – Accenture | Sr. Cloud Development Lead Engineer: AWS - Hand-On Development, Sr. Cloud Architect, | Feb 2023 to Till May 2024| Worked Remotely: Dallas, TX
+MD Live Health Care Patient Portal API Integration
+https://developers.mdlivetechnology.com/#health-conditions-list
+
+MDLIVE will be the world's highest quality, largest provider of virtual health management and care, recognized for world class consumer and clinician experience.
+As Sr. Engineer, my role is understanding the MDLive API and convert them into Provider Specific Requirement. I am working with provider community platform where clients as use to provide the API in FHIR Standards. I role is to understand and provide Middleware Composable API where providers can consume in FHIR Standards: 
+        ◦ https://www.hl7.org/fhir/
+I am playing a role of AWS Cloud Engineer where I am responsible for Developing API on Serverless Platform using Function as Service – AWS Lambda, Server Based Application which are deployed on EKS  with Docker.
+
+Below are Microservices with Spring Boot, Lambda with NodeJS, DynamoDB, ETL-Python, EKS
+MicroServices Modules with Features
+    • User Profile 
+        ◦ Switch Profile, Manage Account, Add New Dependent, Sign Out, Help & Support
+        ◦ Account Details, Security & Login, Payment & Billing, Family Members, Activity History
+    • Modules, Appointments, Search Provider, Patient Assessments, Allergies, Behavioral Health History, Consultation Summary, Customer Documents, Health Condition, Insurance
+    • Messages
+    • Surgeries/Procedures 
+Microservices with Lambda - NodeJS
+    • Medical Condition, Emergency Services, SOS Services, Daily Questionary.
+
+Role: AWS Cloud Engineer responsible for Developing API on AWS Lambda, and Server Based API using Docker with below Skills
+
+    • Skills
+        ◦ Programming
+            ▪  Java 11, Spring Boot, NodeJS, JavaScript/TypeScript ES6, Express.js, Fastify, Python, Fast API
+        ◦ AWS  
+            ▪ Lambda, Step function, DynamoDB, SNS, SQS, Event Bridge, S3, Glue, CloudWatch
+        ◦ Container
+            ▪ Docker, Docker Compose, EKS, Kubernetes, Gitlab CICD
+        ◦ IAC: 	
+            ▪ Terraform, AWS CDK, AWS Serverless
+        ◦ Middleware
+            ▪  Kinesis, Kafka
+        ◦ Oauth
+            ▪ Okta
+        ◦ Data Analytics
+            ▪ Kenisis, RedShit, Athena, Glue
+
+
+
+
+
+Client: Taco Bell® Sr. Cloud Development Lead Engineer: AWS - Hand-On Development | December 2022 to Feb 2023| Worked Remotely: Dallas, TX
+Reporting Manager: Toan Vu - https://www.linkedin.com/in/toan-vu-7a0912189/
+Taco Bell® – HR Middleware Application – Migration. Tecobel has lot of external applications for onboard Employee in a Store.  One of the systems is ERS. ERS send the data as xml file for onboard employees to AWS Cloud. My Role is to build and enhance back-end application to parse the data and integrate with Patch API for Employee Migration. 
+I am playing a role of AWS Cloud Engineer where I am responsible for ` API on Serverless Platform using Function as Service – AWS Lambda, Server Based Application which are deployed on EKS with Docker.
+
+Middleware – Use Case 4 /Microservices– ers to Tracks
+Some of the Operations for Employee Migration are – Employee Actions – Replacing API with Patch Endpoint.  – Rest Integration with Axiom 
+    • Change of Address, Salary Change, Promotion, Demotion, Leave Return Date, Leave Data.
+    • Skills
+        ◦ Programming
+            ▪  Java 11, Spring Boot, NodeJS, Express.js, JavaScript/TypeScript ES6, Fastify, Python, Fast API
+        ◦ AWS  
+            ▪ Lambda, Step function, DynamoDB, RDS, IAM, SNS, SQS, Event Bridge, S3, Glue, CloudWatch
+        ◦ Container
+            ▪ Docker, Docker Compose, EKS, Kubernetes, Gitlab CICD
+        ◦ IAC: 	
+            ▪ Terraform, AWS CDK, AWS Serverless
+        ◦ Middleware
+            ▪  Kinesis, Kafka, Oracle Identify and Access Management, MuleSoft
+        ◦ Oauth
+            ▪ Okta
+        ◦ Cloud Platform:
+            ▪ AWS
+        ◦ Data Analytics
+            ▪ Kenisis, RedShit, Athena, Glue
+
+
+
+
+Client: Sr. Cloud Architect, T-Mobile Sr. Cloud Development Lead Engineer: AWS, GCP, AZURE - Hand-On Development |July 2022 to December 2022 | Worked Remotely: Dallas, TX
+
+Manager: Siva Sareddu (https://www.linkedin.com/in/sivasareddu/)
+T-Mobile has PacBot(https://opensource.t-mobile.com/blog/posts/introducing-pacbot/) is an home grown application. It is a enterprise security tool which reports security alerts for all the cloud and on-prem resources.  I am part of security data ingestion using aws serverless framework using NodeJS/JavaScript as Programming Language. I am responsible for porting Assets Information and Volitation Feeds to PacBot understanding format. Besides that, providing solutions to violation with one click remediation process
+I am playing a role of AWS Cloud Engineer where I am responsible for Developing API on Serverless Platform using Function as Service – AWS Lambda, Google Functions, Azure Functions, Server Based Application which are deployed on EKS with Docker.
+
+At T-Mobile, Applications, APIS on deployed on Multi Cloud Environment. The Legacy Applications use Spring Boot Microservices, Some Business function use AWS with Lambda, TypeScript, NodeJS and others use AWS Lambda with Python. For all the data transformations are implemented using Python Library for ETL, and Data Intensive Jobs.
+Implementations are been use Serverless and Terraform for IAC –Infra as Code
+
+    • Skills
+        ◦ Programming
+            ▪ Java 11, Spring Boot, NodeJS, JavaScript/TypeScript ES6, Express.js, Fastify, Python, Fast API
+        ◦ AWS  
+            ▪ Lambda, Step function, RDS, DynamoDB, SNS, SQS, Event Bridge, S3, Glue, CloudWatch
+        ◦ Container
+            ▪ Docker, Docker Compose, EKS, Kubernetes, Gitlab CICD
+        ◦ IAC: 	
+            ▪ Terraform, Serverless Framework (Supports multi-Cloud: https://www.serverless.com/)
+        ◦ Middleware
+            ▪  Kinesis, Kafka, Oracle Identify and Access Management, MuleSoft
+        ◦ Oauth
+            ▪ Okta
+        ◦ ETL
+            ▪  AWS Glue
+        ◦ Cloud Platform:
+            ▪ AWS, Google Cloud, Azure
+        ◦ Data Security Analytics
+            ▪ Kenisis, RedShit, Athena, Glue
+
+
+
+
+
+ Client: College Board| Sr. Cloud Development Lead Engineer: AWS - Hand-On Development | March/April 2021 to June 2022| Worked Remotely: Dallas, TX Client Manager: Sherry Chen 
+
+Work Location: Home; Remote, Dallas, TX. I worked as AWS Cloud Engineer for Developing Microservices on Function as Service Platform. Legacy Applications are maintained as Spring Boot with Docker, Deployed on AWS EKS Serverless Platform
+Use Cases/Modules:
+    • msta-bulk-base – node module/library
+    • ta-common -node module/library.
+    • msta-bulk-holds – use case/microservices
+    • msta-appsync-api – AWS AppSync GraphQL/Rest api Integration with Reacts
+    • msta-bulk-cancel – use case/Microservice
+    • msta-bulk-modify – use case//Microservice
+    • Reports
+        ◦ Athena Reports – Reports on S3 JSON Data
+    • Skills
+        ◦ Programming
+            ▪ Java 11, Spring Boot, NodeJS, JavaScript/TypeScript ES6, Express.js, Fastify, Python, Fast API, Boto 3
+        ◦ AWS  
+            ▪ Lambda, Step function, RDS, DynamoDB, SNS, SQS, Event Bridge, S3, Glue, CloudWatch 
+            ▪ Java AWS SDK
+            ▪ Node JS AWS SDK
+            ▪ Python AWS SDK
+        ◦ Container
+            ▪ Docker, Docker Compose, EKS, Kubernetes, Gitlab CICD
+        ◦ IAC: 	
+            ▪ Terraform, Serverless Framework (Supports multi-Cloud: https://www.serverless.com/)
+        ◦ Middleware
+            ▪  Kinesis, Kafka, Oracle Identify and Access Management, MuleSoft
+        ◦ Oauth
+            ▪ Okta
+        ◦ ETL
+            ▪  AWS Glue
+        ◦ Cloud Platform
+            ▪ AWS
+        ◦ Data Analytics
+            ▪ Kenisis, RedShit, Athena, Glue
+        ◦ Data Analytics
+            ▪ Kenisis, RedShit, Athena, Glue
+
+
+
+
+
+
+
+
+
+
+
+Client: Sirius XM – Connected Vehicles| Sr. Cloud Development Lead Engineer: AWS, GCP - Hand-On Development |Sept 2019 to March 2021| Irving TX-|Worked at Irving initially and moved to Remotely: Dallas, TX
+
+Working on AWS Serverless Stack, AS AWS Cloud Engineer for deploying Microservices using AWS Lambda, Function as Service. Based on the OEM, Applications are on Multi Cloud Google, Azure, using Function as Service. 
+Understanding Legacy code in Spring 2.5 / Spring 3.0 for connected Vehicles. Transform the Java Webservices into AWS Services using Serverless Architecture.
+
+    • Wireless Communication- for connected Cars - Implementations
+        ◦ Aries, Jasper wireless Integration using Serverless Framework
+        ◦ DataSync – for Billing event system for Activation, Deactivation
+        ◦ Developing API using AWS Stack {API Gateway, Lambda, Step Functions, DynamoDB, SQS, SNS }
+        ◦ Deploying artifacts using CloudFormation, Serverless framework
+        ◦ Unit Test Cases with Chai, Sinon, Mocha
+        ◦ CloudWatch Dashboards, Kibana Dashboards, Dynatrace configuration
+        ◦ AWS Firehouse configuration to send the log steams to Kibana and down steam systems
+        ◦ Automation Frame working for API Validation.
+        ◦ CloudFormation and Serverless – using YML deployments
+    • Skills
+        ◦ Programming
+            ▪ Java 11, Spring Boot, Node.js, JavaScript/TypeScript ES6, Express.js, Fastify, Python, Fast API, Boto3
+        ◦ AWS  
+            ▪ Lambda, Step function, RDS, DynamoDB, SNS, SQS, Event Bridge, S3, Glue, CloudWatch
+        ◦ Container
+            ▪ Docker, Docker Compose, EKS, Kubernetes, Gitlab CICD
+        ◦ IAC: 	
+            ▪ CloudFormation, Serverless Framework (Supports multi Cloud: https://www.serverless.com/), AWS CDK
+        ◦ Middleware
+            ▪  Kinesis, Kafka, Oracle Identify and Access Management, MuleSoft
+        ◦ Oauth
+            ▪ Okta
+        ◦ Cloud Platform
+            ▪ AWS
+        ◦ Data Analytics
+            ▪ Kenisis, RedShit, Athena, Glue
+
+
+Previous Organizations Details
+
+Cognizant USA: Feb 2014 – Sept 2019
+|| || Technology
+Client
+Role
+Technology
+National Life, Richardson TX
+Technical Lead – Off-shore Onsite- Delivery
+Java 8, 11, Spring Boot Microservices, Java – AWS Lambda, Apache Camel
+MoneyGram, Plano, TX
+Sr Engineer – Payment Integrations with Ingenico, First Data, Fraud Detection
+Java 8, 11, Spring Boot Microservices, Java – AWS Lambda, Kafka, Angular 1.1, Angular 
+AWS, Google Cloud
+Verizon, Irving TX
+Application Architect- Order Line Management – Java Microservices
+Java 8, 11, Spring Boot Microservices, Java – AWS Lambda, Kafka,
+Netflix OSS Micro Services with 
+Zuul, Eureka, Ribbon, Hystrix, SideCar, Cassendra, Oracle, AWS Cloud Platform
+Kaiser, Pleasanton TX
+Sr. Engineer – Java 8, Spring Boot Microservices
+
+Java 8, Spring Boot, Oracle, Oracle IAM, Rest API, JNDI, MongoDB, On Prem Cloud Infra
+Paypal-Ebay
+Sr. Engineer – Spit Operations,
+Standing up Applications on Paypal, Ebay
+
+Java 8, Spring Boot, F5 Load Balancer, Tomcat, Spring MVC, Oracle, MySQL, Postgres SQL, MongoDB
+Paypal
+Sr. Engineer – Authentication, Authorization, Ouath
+Java 8, Spring Boot, F5 Load Balancer, Tomcat, Spring MVC, Spring Security, Oracle
+
+	
+
+
+
+
+
+
+
+Organization
+Role
+Execution Time
+Clients
+Cognizant Technologies
+Application Architect 
+June 2011-Feb 2014
+Univision TV Media and Telecommunications, Assert Management
+Cognizant Technologies
+Lead Programmer, Technology Specialist 
+Oct 2006-June2011
+UGC, WellPoint, Sony, Maritz
+SLK Software Services
+Designer
+June 2004 – September -2006
+M NT bank, EDC USA.
+ITC InfoTech India/UK 
+Sr. Developer
+2000 October - May 2004
+ITC International Business Division, AOL, Fiat UK CRM Division
+Indosoft International
+Web Developer
+1999 June to 2000 Sept 
+Indosoft INC., USA
+
